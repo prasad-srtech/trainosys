@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>srtech</finalName>
+		<finalName>trainosys</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -42,4 +42,5 @@
 	</build>
 	
 </project>
+
 
