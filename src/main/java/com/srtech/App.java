@@ -1,4 +1,4 @@
-package com.srtech;
+package com.trainosys;
 
 public class App 
 {
