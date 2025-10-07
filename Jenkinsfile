@@ -32,7 +32,7 @@ pipeline {
         }
 	stage('Deployment') {
 	   steps {
-		sh 'scp target/trainosys.war root@172.31.29.82:/root/tomcat/apache-tomcat-10.1.46/webapps'
+		sh 'scp target/trainosys.war root@172.31.29.203:/root/tomcat/apache-tomcat-10.1.46/webapps'
 	}
     }
 }
